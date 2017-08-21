@@ -2,7 +2,7 @@
 
 include 'header.php';
 
-$servername = "localhost";
+$servername = "vesoul.codeur.online";
 $username = "jcecile";
 $password = "jcecile@2017";
 $dbname = "jcecile";
